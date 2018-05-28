@@ -1,4 +1,4 @@
-# JAvaEE
+# JavaEE
 it describes the process of JMS MQs in an example code. 
 JMS 2.0 introduces a new simplified API, which consists mainly of three new interfaces (JMSContext,
 JMSProducer and JMSConsumer).
